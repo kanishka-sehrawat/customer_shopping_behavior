@@ -15,10 +15,12 @@ I handled missing values, cleaned the data, and prepared it for further analysis
 After cleaning the data, I loaded it into a SQL database.
 I wrote SQL queries to answer business questions like:
 
-Which customers spend the most?
-What are the most popular products?
-How customer behavior changes over time
-📊 Dashboard Creation (Power BI)
+- Which customers spend the most?
+
+- What are the most popular products?
+
+-How customer behavior changes over time
+## 📊 Dashboard Creation (Power BI)
 
 I connected the SQL database to Power BI and created an interactive dashboard.
 The dashboard shows important insights like sales trends, customer segments, and overall performance.
@@ -32,12 +34,12 @@ I explained the key insights and gave some basic recommendations based on the da
 
 The goal of this project is to practice and demonstrate:
 
-Data cleaning and analysis using Python
-Writing SQL queries for real-world problems
-Creating dashboards using Power BI
-Turning data into meaningful insights
+- Data cleaning and analysis using Python
+- Writing SQL queries for real-world problems
+- Creating dashboards using Power BI
+- Turning data into meaningful insights
 
 ## 🛠️ Tools Used
-Python
-SQL
-Power BI
+- Python
+- SQL
+- Power BI
