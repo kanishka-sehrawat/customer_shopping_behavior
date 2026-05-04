@@ -19,7 +19,7 @@ I wrote SQL queries to answer business questions like:
 
 - What are the most popular products?
 
--How customer behavior changes over time
+- How customer behavior changes over time
 ## 📊 Dashboard Creation (Power BI)
 
 I connected the SQL database to Power BI and created an interactive dashboard.
