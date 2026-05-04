@@ -4,7 +4,7 @@ This project is a complete end-to-end data analysis project based on retail cust
 
 In this project, I worked on different stages of data analysis similar to what a data analyst does in a real company.
 
-What I Did in This Project
+- What I Did in This Project
 Data Cleaning and Exploration (Python)
 
 First, I loaded the dataset in Python and explored it to understand the structure.
